@@ -4,8 +4,9 @@ public class App {
         
         System.out.println("hello go");
 
-        Car mycar =  Car.create();
-        Car mycar2 =  Car.create();
+        // Car mycar =  new Car();
+        Car mycar3 =  Car.create();
+        Car mycar4 =  Car.create();
 
         // String[] myarr = {"khateeb","maira","saira","sora"};
         // for (String string : myarr) {
