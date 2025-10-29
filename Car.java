@@ -9,7 +9,7 @@ public class Car {
     public static Car create(){
 
         if  (instance == null){
-        return instance = new Car();
+         instance = new Car();
 
         }
       return instance;
